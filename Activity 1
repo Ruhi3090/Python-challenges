@@ -1,0 +1,7 @@
+a=4
+b=3
+c=8
+d=10
+e=0
+e=(a+b)*c/d
+print("Value of (a+b)*c/d =",e)
